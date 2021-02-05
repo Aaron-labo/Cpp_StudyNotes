@@ -20,7 +20,7 @@ private:
 
 int main()
 {
-	
+	cout << "this is a class" << endl;
 
 	return 0;
 }
