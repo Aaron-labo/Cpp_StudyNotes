@@ -1,0 +1,2 @@
+E:\C++\self_study\7_clock\Debug\7_clock.exe
+E:\C++\self_study\7_clock\Debug\7_clock.pdb

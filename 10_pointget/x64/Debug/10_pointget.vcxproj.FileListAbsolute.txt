@@ -1,0 +1,2 @@
+E:\C++\self_study\10_pointget\x64\Debug\10_pointget.exe
+E:\C++\self_study\10_pointget\x64\Debug\10_pointget.pdb

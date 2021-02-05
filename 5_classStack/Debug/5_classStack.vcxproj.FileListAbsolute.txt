@@ -1,0 +1,2 @@
+E:\C++\self_study\5_classStack\Debug\5_classStack.exe
+E:\C++\self_study\5_classStack\Debug\5_classStack.pdb

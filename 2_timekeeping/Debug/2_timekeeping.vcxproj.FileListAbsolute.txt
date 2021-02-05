@@ -1,0 +1,2 @@
+E:\C++\self_study\2_timekeeping\Debug\2_timekeeping.exe
+E:\C++\self_study\2_timekeeping\Debug\2_timekeeping.pdb

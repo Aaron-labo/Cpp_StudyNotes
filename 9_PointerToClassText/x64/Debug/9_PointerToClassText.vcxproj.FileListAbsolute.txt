@@ -1,0 +1,2 @@
+E:\C++\self_study\9_PointerToClassText\x64\Debug\9_PointerToClassText.exe
+E:\C++\self_study\9_PointerToClassText\x64\Debug\9_PointerToClassText.pdb

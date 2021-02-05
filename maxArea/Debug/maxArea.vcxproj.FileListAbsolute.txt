@@ -1,0 +1,2 @@
+E:\C++\self_study\maxArea\Debug\maxArea.exe
+E:\C++\self_study\maxArea\Debug\maxArea.pdb

@@ -1,0 +1,2 @@
+E:\C++\self_study\6_myString\Debug\6_myString.exe
+E:\C++\self_study\6_myString\Debug\6_myString.pdb

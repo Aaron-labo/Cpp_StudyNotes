@@ -1,0 +1,2 @@
+E:\C++\self_study\4_defaultpara\Debug\4_defaultpara.exe
+E:\C++\self_study\4_defaultpara\Debug\4_defaultpara.pdb

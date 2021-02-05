@@ -1,0 +1,2 @@
+E:\C++\self_study\temp\Debug\temp.exe
+E:\C++\self_study\temp\Debug\temp.pdb
