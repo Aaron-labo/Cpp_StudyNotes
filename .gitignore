@@ -8,6 +8,7 @@
 .suo
 *.user
 *.sln.docstates
+.vs/*
 
 # Build results
 
@@ -123,7 +124,7 @@ ClientBin/
 *.opendb
 *.VC.db
 *.VC.db-shm
-*.VC.db-al
+*.VC.db-wal
 
 # RIA/Silverlight projects
 Generated_Code/
