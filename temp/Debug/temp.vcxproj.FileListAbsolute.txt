@@ -1,4 +1,0 @@
-E:\C++\self_study\temp\Debug\temp.exe
-E:\C++\self_study\temp\Debug\temp.pdb
-E:\C++\Cpp_StudyNotes\temp\Debug\temp.exe
-E:\C++\Cpp_StudyNotes\temp\Debug\temp.pdb
