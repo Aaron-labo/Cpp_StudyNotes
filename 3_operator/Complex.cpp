@@ -17,6 +17,22 @@ Complex& Complex::operator+=(const Complex& another)
 	return *this;
 }
 
+Complex& Complex::operator++()
+{
+	x++;
+	y++;
+	return *this;
+}
+
+const Complex& Complex::operator++(int)
+{
+	Complex t(this->x, this->y);
+	(this->x)++;
+	(this->y)++;
+	return t;
+}
+
+
 ostream& operator<<(ostream &os, const Complex& c)
 {
 	return os << '(' << c.x <<  ',' << c.y << ')';

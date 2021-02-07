@@ -8,6 +8,8 @@ public:
 	Complex(double xx = NULL, double yy = NULL);
 	void dis();
 	Complex& operator+=(const Complex& another);
+	Complex& operator++();
+	const Complex& operator++(int);
 	friend ostream& operator<<(ostream& os, const Complex& c);
 	friend istream& operator>>(istream& is, Complex& c);
 private:
